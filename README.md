@@ -2,4 +2,4 @@
 
 My personal portfolio and CV.
 
-🌐 **Live:** https://rubenhed.github.io/portfolio-cv/
+🌐 <a href="https://rubenhed.github.io/portfolio-cv/" target="_blank">Live Demo</a>
